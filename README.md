@@ -7,6 +7,6 @@
 
 <p align="center">
  
- <img src=https://github-readme-stats.vercel.app/api?username=rrzki13&&show_icons=true&title_color=4ecdc4&icon_color=247ba0&text_color=1a535c&bg_color=ffffff" width="60%">
+ <img src="https://github-readme-stats.vercel.app/api?username=rrzki13&&show_icons=true&title_color=4ecdc4&icon_color=247ba0&text_color=1a535c&bg_color=ffffff" width="60%">
  
  </p>
