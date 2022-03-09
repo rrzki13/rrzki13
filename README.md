@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Rizki Ramadhan
+# Hi all 👋, my name is Rizki Ramadhan
 
 - 🔭 I’m currently learning javascript and Android
 - 🌱 Excited to develop app
